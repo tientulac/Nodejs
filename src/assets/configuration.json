@@ -1,0 +1,6 @@
+{
+    "production": false,
+    "HanttechAPI": "http://localhost:4200/api/hanttech/",
+    "BuilderAPI": "http://localhost:4200/api/builder/",
+    "ElasticsearchAPI":"https://localhost:9200/"
+  }
